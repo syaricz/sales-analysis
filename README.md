@@ -7,7 +7,7 @@ Universitas Dirgantara Marsekal Suryadarma (UNSURYA) | Dosen: Muryan Awaludin, S
 |---|---|
 | **Nama** | `Syamsurizal` |
 | **NPM** | `241051004` |
-| **Live Dashboard** | `` |
+| **Live Dashboard** | `https://sales-analysis-dashboard-app.streamlit.app/` |
 | **Dataset (Kaggle)** | `SuperMarket Analysis.csv` |
 
 ---
